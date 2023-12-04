@@ -1,6 +1,17 @@
+## November, 2023
+
+* Facebook Messenger integration
+* Instagram Messenger integration
+* Introducing channels for multi-channel communication with customers
+* New widget for Ideal.shop
+* Added Smart Folders
+* Added feature to merge contacts
+* Added Tags for Contacts and Conversations
+* Added support for sending a copy of an invoice to a specific e-mail
+* Add support for emojies in Inbox-names
+
 ## October, 2023
 
-* TODO: Usability improvements
 * New widget for Shopify webshops
 * New widget for WooCommerce webshops
 * Group updates of conversations (e.g. "Mark as closed")
