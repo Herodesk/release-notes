@@ -1,3 +1,10 @@
+## December, 2023
+
+* New "Getting Started" guides
+* Added a new feature for Auto Responders for all channels
+* Added Side conversations
+* Improved conversation-list usability and load speed with "infinity load"
+
 ## November, 2023
 
 * Facebook Messenger integration
