@@ -1,3 +1,12 @@
+## January, 2024
+
+* Launched Reports module
+* Added auto-saving of draft messages
+* Added a new default smart folder for "My Drafts"
+* Added notification when new messages arrive (pling!)
+* Improved usability across all settings
+* Added conversation actions to the conversation list
+
 ## December, 2023
 
 * New "Getting Started" guides
