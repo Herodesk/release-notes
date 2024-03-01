@@ -1,3 +1,20 @@
+## February, 2024
+
+* Quick search updated to look in all conversations and attachments
+* Attach multiple files to one message
+* Feature to merge conversations
+* Use contact profile pictures from SoMe when available
+* Select all conversations in the conversation list
+* Updated global search to include contacts, conversations and attachments
+* Add new contact during conversation contact change
+* Update that allows attaching multiple files to a message
+* Prestashop widget
+* Show Xpressen T&T code in the widget
+* Show return labelless code for Smartpack return orders
+* Smartpack WMS widget
+* Change contact of a conversation
+* Merge conversations
+
 ## January, 2024
 
 * Launched Reports module
