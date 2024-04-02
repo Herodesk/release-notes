@@ -4,12 +4,11 @@
 * Show real time if multiple agents are viewing the same conversation
 * If an imported e-mail is a new conversation, import the whole e-mail and don't "cut off" the message at the next reply in the thread
 * Feature to let you use the value of custom fields in smart folder rules
-* Added custom fields to contacts
+* Added Custom Fields to contacts
 * Added phone number field to contacts
 * Added Instagram Verified and Follower-count to Contacts
 * New Magento 2 widget
 * When starting a new conversation, import the whole email instead of just newest message
-* Released Custom Fields on Contacts
 * Added new button to send message and assign the conversation to yourself
 
 ## February, 2024
