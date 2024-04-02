@@ -1,11 +1,23 @@
+## March, 2024
+
+* Give a warning if another agent is replying to the same conversation
+* Show real time if multiple agents are viewing the same conversation
+* If an imported e-mail is a new conversation, import the whole e-mail and don't "cut off" the message at the next reply in the thread
+* Feature to let you use the value of custom fields in smart folder rules
+* Added custom fields to contacts
+* Added phone number field to contacts
+* Added Instagram Verified and Follower-count to Contacts
+* New Magento 2 widget
+* When starting a new conversation, import the whole email instead of just newest message
+* Released Custom Fields on Contacts
+* Added new button to send message and assign the conversation to yourself
+
 ## February, 2024
 
 * Quick search updated to look in all conversations and attachments
-* Attach multiple files to one message
 * Feature to merge conversations
 * Use contact profile pictures from SoMe when available
 * Select all conversations in the conversation list
-* Updated global search to include contacts, conversations and attachments
 * Add new contact during conversation contact change
 * Update that allows attaching multiple files to a message
 * Prestashop widget
@@ -13,7 +25,6 @@
 * Show return labelless code for Smartpack return orders
 * Smartpack WMS widget
 * Change contact of a conversation
-* Merge conversations
 
 ## January, 2024
 
