@@ -1,3 +1,14 @@
+## April, 2024
+
+* Released Rules for Herodesk
+* Released Herodesk App for iOS and Android
+* Ensure links in conversations are always opened in a new window
+* Added order deeplink for Shopify order lists
+* Fixed message field to the bottom of the screen
+* Added "forgot identifier"-feature to sign-in page
+* Added feature to enable or disable smart folders
+* Released a Danish translation of Herodesk
+
 ## March, 2024
 
 * Give a warning if another agent is replying to the same conversation
