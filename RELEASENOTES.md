@@ -1,3 +1,18 @@
+## May, 2024
+
+* Introducing Live Chat
+* Show full conversation title on mobile devices by clicking on it
+* Added new "quick actions" to the conversation list and allowed to start new conversations without having to create a contact first
+* Added feature to delete a conversation
+* Added feature to get the right customer name from Shopify contact form emails
+* Updated "send, close and go to next" to stay in the same inbox and skip assigned conversations
+* Feature to change the order of conversations in the conversation list
+* Show channel icon in conversations list
+* Added conversation type to smart-folder rules and Rules
+* Added new Junk smart-folder
+* Added feature to block a contact (marking all future conversations as spam)
+* Made it possible to change the name of the "Operator"-user, that's used for auto responders, etc.
+
 ## April, 2024
 
 * Released Rules for Herodesk
