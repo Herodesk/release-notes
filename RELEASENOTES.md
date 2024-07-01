@@ -1,3 +1,20 @@
+## June, 2024
+
+* The "Send reply and go-to-next" has been updated to skip conversations that are assigned to another user or that another user currently has open
+* Added feature to allow users to change their profile picture (this will be shown in the Live chat widget)
+* Added customer comments to orders in DanDomain Classic + new feature to update order comment from the DanDomain Classic widget in Herodesk
+* Added feature to choose whether a live chat will be displayed on desktop only, mobile only or both
+* When someone replies to a story on FB/IG, it's now shown as part of the message in Herodesk
+* Make phone numbers inside messages click-able to call them when using the Herodesk app
+* Add a list of a contacts conversations to the conversation widget
+* Made it possible to create rules and smart folders based on the conversations channel or channel type
+* Applied a number of changes that makes Herodesk significantly faster
+* Show in the conversation list who is viewing a conversation
+* Updated conversation list to show the first words of the latest message in the list
+* Made it more clear what inbox you are working in
+* When hovering the subject of a conversation it will show in full length
+* Updated all editors to use new-line instead of paragraph for line breaks when hitting "Enter"
+
 ## May, 2024
 
 * Introducing Live Chat
