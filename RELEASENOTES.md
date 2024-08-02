@@ -1,3 +1,15 @@
+## July, 2024
+
+* New design of Herodesk.
+* New e-mail channel structure. support@yourdomain.com now gets a support@yourdomain.herodesk-mails.io inbox address.
+* New rule discriminator: Number of words in a message.
+* On mobile: Press and hold "send"-button to open send-options menu.
+* Added a new Dinero widget.
+* Added shipping location to Shopify order details
+* Added a new element to Rules that allows you to create a rule based on the word count of a message.
+* Added a list of a contacts conversations to the conversation-widget on the right hand side.
+* Added support for Swedish in the live chat widget.
+
 ## June, 2024
 
 * The "Send reply and go-to-next" has been updated to skip conversations that are assigned to another user or that another user currently has open
