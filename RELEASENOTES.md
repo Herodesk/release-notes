@@ -1,8 +1,21 @@
+## August, 2024
+
+* "Last updated"-time in conversation list now shows the time since last sent or received reply, or last received reply in a related side-conversation.
+* Added feature to let you decide which e-mail address to send a message from, if multiple are associated with the conversations' inbox.
+* Added {{conversation.id}} as new merge field in messages.
+* Live chat update: Make it possible to require contacts to enter their email before starting a new chat.
+* Live chat update: Automatically send a copy of your reply to the contacts email if known, and if they have left the chat or waited more than 15 minutes for your reply.
+* Live chat updates: Choose icon, icon message, position and whether to hide outside opening hours.
+* Added default inbox to user profiles to be set as default when starting a new conversation.
+* New widget: Pipedrive integration.
+* New feature: Send e-mails from your own domain name from Herodesk.
+* New feature: Forward a conversation to an external recipient via e-mail.
+* Live chat now remembers its last state (open, closed, viewing conversation) and will open in the same state when you refresh the page / navigate.
+
 ## July, 2024
 
 * New design of Herodesk.
 * New e-mail channel structure. support@yourdomain.com now gets a support@yourdomain.herodesk-mails.io inbox address.
-* New rule discriminator: Number of words in a message.
 * On mobile: Press and hold "send"-button to open send-options menu.
 * Added a new Dinero widget.
 * Added shipping location to Shopify order details
