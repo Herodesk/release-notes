@@ -1,3 +1,9 @@
+## September, 2024
+
+* Added German and Dutch to the live chat widget.
+* Improved live chat navigation to make it easier to close and navigate.
+* Adding feature to Rules to support conditions based on a messages/conversations channel type.
+
 ## August, 2024
 
 * "Last updated"-time in conversation list now shows the time since last sent or received reply, or last received reply in a related side-conversation.
