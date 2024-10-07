@@ -1,5 +1,6 @@
 ## September, 2024
 
+* Created "widget action" for Rules to allow you to add events from widgets + implemented the first widget action: Pause orders in Smartpack WMS, to allow you to automatically pause orders in Smartpack WMS based on a rule.
 * Added German and Dutch to the live chat widget.
 * Improved live chat navigation to make it easier to close and navigate.
 * Adding feature to Rules to support conditions based on a messages/conversations channel type.
