@@ -1,3 +1,12 @@
+## October, 2024
+
+* New AI feature: Translations. Herodesk can now automatically translate in- and outgoing messages in conversations to the language of your choice.
+* New AI feature: Assistant. Every conversation now has an AI assistant that can help you with common tasks, like finding writing summaries, improve your draft reply, etc..
+* New AI feature: Language detection. Herodesk can now automatically detect the language of incoming messages and use it as part of a Rule.
+* New AI feature: Sentiment analysis. Herodesk can now automatically analyze the sentiment/meaning of incoming messages use it as part of a Rule.
+* Updated packages. We have launched new Herodesk packages. A new Herodesk Basic, that contains most features but no AI, and a new Herodesk Plus that contains all features including AI.
+* Delete message. You can now delete a specific message or internal note in a conversation.
+
 ## September, 2024
 
 * Created "widget action" for Rules to allow you to add events from widgets + implemented the first widget action: Pause orders in Smartpack WMS, to allow you to automatically pause orders in Smartpack WMS based on a rule.
