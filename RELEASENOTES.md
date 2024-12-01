@@ -1,3 +1,14 @@
+## November, 2024
+
+* One click Live translation feature in conversations.
+* Released new GoldenPlanet e-commerce widget.
+* Released new PeakWMS widget.
+* Added Customer Company information to the Shopify widget.
+* Added a conversations inbox filter as condition in rules.
+* Choose sender address when starting a new conversation.
+* Invoices sent from Herodesk are now attached as PDFs to the email.
+* Group delete conversations from the conversation list.
+
 ## October, 2024
 
 * New AI feature: Translations. Herodesk can now automatically translate in- and outgoing messages in conversations to the language of your choice.
