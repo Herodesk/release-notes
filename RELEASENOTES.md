@@ -1,3 +1,15 @@
+## December, 2024
+
+* New phone integration: Flexfone.
+* Make phone-numbers clickable to initiate a call.
+* Make conversation subject editable.
+* Updated and simplified how to start new conversations + made it possible to start it with an internal note.
+* Made all hyperlinks clickable in a conversation to open in a new tab.
+* Added AI text improvement features to the message toolbar.
+* Added new rule initiator to run after a conversation has been marked as SPAM for X time.
+* Tab-complete in email address field when starting a new conversation.
+* New rule-type that triggers when a conversation has been marked as SPAM for more than X time.
+
 ## November, 2024
 
 * One click Live translation feature in conversations.
